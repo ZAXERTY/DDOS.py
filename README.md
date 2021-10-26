@@ -1,2 +1,2 @@
 # HIVE.py
-python3 DDOS.py ip 655007 time
+python3 HIVE.py ip 655007 time
